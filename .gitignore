@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Front-end Menthor
+*.sketch
+*.xd
+*.fig
+.DS_Store
